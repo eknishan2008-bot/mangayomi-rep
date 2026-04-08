@@ -1,0 +1,10 @@
+[
+  {
+    "name": "My Personal Stream",
+    "pkgName": "mysite.js",
+    "version": "1.0.0",
+    "lang": "en",
+    "itemType": "anime",
+    "sourceCodeUrl": "https://raw.githubusercontent.com/eknishan2008-bot/mangayomi-rep/main/mysite.js"
+  }
+]
