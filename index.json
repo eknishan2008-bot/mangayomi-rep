@@ -1,18 +1,26 @@
 [
   {
-    "name": "Personal Site 1",
-    "pkgName": "site1.js",
+    "name": "HentaiMama",
+    "pkgName": "hentaimama.js",
     "version": "1.0.0",
     "lang": "en",
     "itemType": "anime",
-    "sourceCodeUrl": "https://raw.githubusercontent.com/eknishan2008-bot/mangayomi-rep/main/site1.js"
+    "sourceCodeUrl": "https://raw.githubusercontent.com/eknishan2008-bot/mangayomi-rep/main/hentaimama.js"
   },
   {
-    "name": "Personal Site 2",
-    "pkgName": "site2.js",
+    "name": "hentaiNi",
+    "pkgName": "hentaini.js",
     "version": "1.0.0",
     "lang": "en",
     "itemType": "anime",
-    "sourceCodeUrl": "https://raw.githubusercontent.com/eknishan2008-bot/mangayomi-rep/main/site2.js"
+    "sourceCodeUrl": "https://raw.githubusercontent.com/eknishan2008-bot/mangayomi-rep/main/hentaini.js"
+  },
+  {
+    "name": "hentaiTV",
+    "pkgName": "hentaitv.js",
+    "version": "1.0.0",
+    "lang": "en",
+    "itemType": "anime",
+    "sourceCodeUrl": "https://raw.githubusercontent.com/eknishan2008-bot/mangayomi-rep/main/hentaitv.js"
   }
 ]
